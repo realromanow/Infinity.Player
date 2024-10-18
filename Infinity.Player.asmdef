@@ -1,0 +1,19 @@
+{
+    "name": "Infinity.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e90ac084be3f8d469f923da4b9f7c81",
+        "GUID:e703388cbc8f6454097ffbc00f9d94ff",
+        "GUID:ea09d578b10b742cc97d853a8246a6ce",
+        "GUID:e4aa282f92fb436aa82ee40049657670"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
