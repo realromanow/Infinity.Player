@@ -1,4 +1,4 @@
-namespace Infinity.Player.Data {
+namespace Plugins.Infinity.Player.Data {
 	public class PlayerDto {
 		public string id;
 		public string displayName;

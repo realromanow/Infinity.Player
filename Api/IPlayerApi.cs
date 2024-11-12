@@ -1,9 +1,9 @@
-using Infinity.Player.Data;
+using Plugins.Infinity.Player.Data;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Infinity.Player.Api {
+namespace Plugins.Infinity.Player.Api {
 	public interface IPlayerApi {
 		Task<PlayerDto> GetPlayer (CancellationToken cancellationToken, IProgress<float> progress = null);
 		

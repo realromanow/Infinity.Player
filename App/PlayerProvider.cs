@@ -1,11 +1,11 @@
-using Infinity.Player.Api;
-using Infinity.Player.Models;
+using Plugins.Infinity.Player.Api;
+using Plugins.Infinity.Player.Models;
 using System;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Infinity.Player.App {
+namespace Plugins.Infinity.Player.App {
 	public class PlayerProvider : IPlayerProvider {
 		private readonly IPlayerApi _playerApi;
 

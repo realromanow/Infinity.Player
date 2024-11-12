@@ -1,4 +1,4 @@
-namespace Infinity.Player.Models {
+namespace Plugins.Infinity.Player.Models {
 	public class LeaderboardPlayerModel {
 		public string displayName { get; }
 		public int score { get; }

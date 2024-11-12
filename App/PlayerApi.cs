@@ -1,15 +1,15 @@
 using Apple.GameKit;
 using Apple.GameKit.Leaderboards;
-using Infinity.Extensions;
-using Infinity.Player.Api;
-using Infinity.Player.Data;
+using Plugins.Infinity.Extensions;
+using Plugins.Infinity.Player.Api;
+using Plugins.Infinity.Player.Data;
 using System;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace Infinity.Player.App {
+namespace Plugins.Infinity.Player.App {
 	public class PlayerApi : IPlayerApi {
 		private PlayerDto _player;
 

@@ -1,4 +1,4 @@
-namespace Infinity.Player.Models {
+namespace Plugins.Infinity.Player.Models {
 	public class AchievementModel {
 		public string id { get; }
 		public float progress { get; }

@@ -1,4 +1,4 @@
-namespace Infinity.Player.Models {
+namespace Plugins.Infinity.Player.Models {
 	public class LeaderboardModel {
 		public LeaderboardPlayerModel[] players { get; }
 

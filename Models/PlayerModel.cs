@@ -1,4 +1,4 @@
-namespace Infinity.Player.Models {
+namespace Plugins.Infinity.Player.Models {
 	public class PlayerModel {
 		public string displayName { get; }
 		public string id { get; }
